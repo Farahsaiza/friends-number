@@ -15,6 +15,6 @@ while u<M:
         S2=S2+D1
     u=u+1
 if S1==M and S2==N:
-    print("les  2 nbrs sont amis")
+    print("the 2 numbers are freinds")
 else:
-    print("les 2 nbrs ne sont pas des amis")
+    print("the 2 numbers are not freinds")
